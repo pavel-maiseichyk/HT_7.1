@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HT_7.1</string>
+    <string name="syncButton">sync</string>
+    <string name="morningActivityText">Morning Activity</string>
+    <string name="afternoonActivityText">Afternoon Activity</string>
+    <string name="eveningActivityText">Evening Activity</string>
+</resources>
